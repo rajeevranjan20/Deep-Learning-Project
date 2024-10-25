@@ -1,8 +1,8 @@
-tensorflow==2.15.0
-pandas 
-numpy 
-scikit-learn
-tensorboard
-matplotlib
-streamlit
-scikeras
+pip install tensorflow==2.15.0
+pip install pandas 
+pip install numpy 
+pip install scikit-learn
+pip install tensorboard
+pip install matplotlib
+pip install streamlit
+pip install scikeras
